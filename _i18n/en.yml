@@ -899,6 +899,7 @@ tools:
   localmonero-blocks: Explorer and Statistics
   nownodes: node APIs
   getblockio: Blockchain nodes provider
+  txstreet: Transaction and block visualizer
 
   market: Market
   backtestking: Build or buy your own trading strategy/bot.
